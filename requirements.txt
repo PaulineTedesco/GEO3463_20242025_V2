@@ -1,0 +1,6 @@
+numpy==1.23.5 
+pandas
+matplotlib==3.5.2
+openpyxl
+netCDF4
+scikit-learn
