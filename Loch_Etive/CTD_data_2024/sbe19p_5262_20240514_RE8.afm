@@ -1,0 +1,51 @@
+* Sea-Bird SBE 19plus Data File:
+* FileName = C:\Data\sbe55_sbe19p_5262\2024-05-14\sbe19p_5262_20240514_RE8.afm
+* Software Version SeatermAF 2.1.4
+* Temperature SN = 
+* Conductivity SN = 
+* System UpLoad Time = May 14 2024 13:11:17 (localtime) = May 14 2024 13:11:17 (UTC)
+* ds
+* SBE 55 V 1.3  SERIAL NO. 122  14 May 2024 13:11:18
+* main battery = 11.87 volts
+* lithium battery =  3.13 volts
+* SBE 55 is NOT ARMED
+* A>
+*END*
+
+1  1   14 May 2024 13:04:22  confirmed   11.9  1367
+    0086000558
+    0086000559
+    008600055A
+    008600055B
+    008600055C
+2  2   14 May 2024 13:04:49  confirmed   11.9  1473
+    00820005C3
+    00820005C4
+    00820005C5
+    00820005C6
+    00820005C7
+3  3   14 May 2024 13:05:54  confirmed   11.9  1732
+    00780006C7
+    00780006C8
+    00780006C9
+    00780006CA
+    00780006CB
+4  4   14 May 2024 13:06:57  confirmed   11.9  1983
+    006E0007C3
+    006E0007C4
+    006E0007C5
+    006E0007C6
+    006E0007C7
+5  5   14 May 2024 13:07:28  confirmed   11.9  2108
+    0069000841
+    0069000842
+    0069000843
+    0069000844
+    0069000845
+6  6   14 May 2024 13:07:53  confirmed   11.9  2206
+    00650008A4
+    00650008A5
+    00650008A6
+    00650008A7
+    00650008A8
+A>
